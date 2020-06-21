@@ -5,4 +5,4 @@ Script used to transform biocellion output files and their names into a form sui
 
 Usage:
 
-split_vtp_files <biocellion-output-dir-path> <output-split-path>
+split_vtp_files \<biocellion-output-dir-path\> \<output-split-path\>
